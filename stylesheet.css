@@ -36,8 +36,8 @@ li {
 }
 
 .copy-container span {
-  color: blue;
-}
+  color: pink;
+} /*16:11 blue →pinkに変更*/
 
 .contents {
   height: 500px;
